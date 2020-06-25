@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FightingGame.UI", "FightingGame.UI\FightingGame.UI.csproj", "{A400D8DA-ED2B-42EC-BB96-8460C2D8C434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FightingGame.Entities", "FightingGame.FighterClasses\FightingGame.Entities.csproj", "{07CF2630-C0E3-439C-8AF5-FF2AD612248E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A400D8DA-ED2B-42EC-BB96-8460C2D8C434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A400D8DA-ED2B-42EC-BB96-8460C2D8C434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A400D8DA-ED2B-42EC-BB96-8460C2D8C434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A400D8DA-ED2B-42EC-BB96-8460C2D8C434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CF2630-C0E3-439C-8AF5-FF2AD612248E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CF2630-C0E3-439C-8AF5-FF2AD612248E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CF2630-C0E3-439C-8AF5-FF2AD612248E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CF2630-C0E3-439C-8AF5-FF2AD612248E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1CDD81B-AA81-4116-B2EA-627B9ABE5D16}
+	EndGlobalSection
+EndGlobal
